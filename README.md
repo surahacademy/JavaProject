@@ -1,2 +1,2 @@
-# JavaProject
+# JavaProject1
 Initial project
